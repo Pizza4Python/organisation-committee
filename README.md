@@ -18,7 +18,6 @@ We are currently searching for contributors who would like to attend on a regula
   
   A host makes sure the P4P event runs smoothly.
   Before P4P:       
-                      
                       The host can schedule and invite speakers and will ensure we have enough tutors present on the evening.
   During P4P:           
                       The host should arrive by 5pm and try to leave with the last person, no later than 8.30pm. 
